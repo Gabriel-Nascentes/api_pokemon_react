@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
 import "../pages/PokeGrid.css";
 const PokeCard = ({ pokemon }) => {
