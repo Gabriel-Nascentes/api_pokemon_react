@@ -1,0 +1,19 @@
+/*  F9F5EB 
+    E4DCCF
+    EA5455
+    002B5B
+    https://react-icons.github.io/react-icons/search?q=search*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-color: #f9f5eb;
+  color: #002b5b;
+}
+a {
+  text-decoration: none;
+  color: #002b5b;
+}
